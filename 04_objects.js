@@ -12,7 +12,7 @@
 // const regularUser = {
 //   fullname :{
 //     userfullname: {
-//       firstname: 'aman',
+//       firstname: 'aman',//amam
 //       lastname: 'kumar'
 
 //     }
@@ -98,5 +98,6 @@ console.log(CourseInstructor);
 const navbar = ({ company})
  // this is used to create a function that takes an object as an argument and destructures it to get the value of the object
 // and then returns a string that contains the value of the object
+
 
 navbar ( company = 'aman') // basically this is used in react
