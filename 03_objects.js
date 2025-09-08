@@ -39,3 +39,4 @@ JsUser.email ="hello@hotmail.com"
  console.log(JsUser.greetings());
 
  
+
