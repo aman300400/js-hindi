@@ -7,7 +7,7 @@ const myhero =["shaktiman", "naagraj"]
 
 const myArr2 =new Array(1,2,3,4,5)
 
-console.log(myArr[1]);
+console.log(myArr[1]);//
  
 // array methods
 //  myArr.push(6)
@@ -28,6 +28,7 @@ console.log(myArr[1]);
    console.log(myArr)
 
    4:00 time stamp
+
 
 
  
